@@ -72,7 +72,7 @@ Once the contract is deployed, you can interact with it. Click on the "MyToken" 
 
 ## Authors
 Sriporna Biswas
-@Sriporna
+https://www.linkedin.com/in/sriporna-biswas-7062a4294/
 
 ## License
 This MyToken is licensed under the MIT License
