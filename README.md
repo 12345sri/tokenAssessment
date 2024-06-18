@@ -1,4 +1,4 @@
-# Token Supply
+# Create A Token
 This Solidity program is a simple demo code for minting and burning token. The purpose of the program is to demonstrate the mechanism of minting , burning and supply of the tokens.
 
 ## Description
